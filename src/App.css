@@ -1,0 +1,13 @@
+html, body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f1f1f1;
+}
+
+.heading {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.notesWrapper {
+  width: 30%;
+}

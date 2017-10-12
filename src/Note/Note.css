@@ -1,0 +1,22 @@
+.panel-body {
+  padding: 10px;
+  background-color: #FBFB95;
+  margin-bottom: 10px;
+}
+
+.noteContent {
+  width: 80%;
+  word-wrap: break-word;
+  display: inline;
+  
+}
+
+.closebtn {
+  float: right;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.closebtn:hover {
+  color: #AC2500;
+}
